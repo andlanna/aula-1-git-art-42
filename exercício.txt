@@ -1,0 +1,13 @@
+1.
+git init = usado pra iniciar o git em um repositório
+git clone = clonar um repositorio do git
+git branch = criar uma branch
+git checkout = mudar de branch
+git fetch = buscar alterações recentes da branch no repositório remoto
+git pull = buscar e incorporar as alterações do repositorio remoto no repositorio local
+git add  = adicionar as mudançar feitas ao diretorio
+git commit = reunir todas as mudanças do repositório em um commit, e adicionar uma descrição 
+git push = adicionar as mudanças feitas no repositorio local ao repositorio remoto
+
+2.
+a diferença entre o git fetch e o git pull é que, o git pull, além de buscar as alterações da branch no repositorio remoto (como o git fetch), ele incorpora as alterações no repositório local.
